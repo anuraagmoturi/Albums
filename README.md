@@ -1,2 +1,2 @@
 # Albums
-React native app
+React native app (Axios)
